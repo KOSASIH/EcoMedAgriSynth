@@ -1,2 +1,3 @@
-# SynBioAI
-The intersection of synthetic biology and artificial intelligence, driving breakthroughs in medicine, agriculture, and ecology.
+# EcoMedAgriSynth
+
+Integrating AI, gene editing, and synthetic biology to revolutionize medicine, agriculture, and ecology with novel, adaptive life forms.
