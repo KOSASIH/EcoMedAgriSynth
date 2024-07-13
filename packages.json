@@ -1,0 +1,47 @@
+{
+  "name": "EcoMedAgriSynth",
+  "version": "1.0.0",
+  "description": "A high-tech platform for gene editing, genetic circuit design, and synthetic biology simulation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest",
+    "lint": "eslint .",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "EcoMedAgriSynth Team",
+  "license": "MIT",
+  "dependencies": {
+    "@qiskit/aqua": "^0.9.0",
+    "tensorflow": "^2.5.0",
+    "numpy": "^1.20.0",
+    "pandas": "^1.3.5",
+    "matplotlib": "^3.5.1",
+    "seaborn": "^0.11.2",
+    "scikit-learn": "^1.0.2",
+    "ray": "^1.10.0",
+    "gym": "^0.21.0",
+    "nanopore": "^1.2.0",
+    "ontology": "^1.1.0",
+    "machine_learning": "^1.0.0",
+    "transfer_learning": "^1.0.0",
+    "meta_learning": "^1.0.0",
+    "express": "^4.17.1",
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "helmet": "^4.6.0",
+    "morgan": "^1.10.0",
+    "webpack": "^5.51.1",
+    "babel-loader": "^8.2.3",
+    "eslint": "^7.32.0",
+    "jest": "^27.4.2"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.9.2",
+    "babel-core": "^7.12.17",
+    "babel-preset-env": "^7.12.11",
+    "eslint-plugin-react": "^7.27.1",
+    "jest-cli": "^27.4.2"
+  }
+}
